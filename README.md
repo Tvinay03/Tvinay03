@@ -1,7 +1,7 @@
 # 👋 Thota Govindu Vinay  
 
 🚀 **Full Stack Developer | AI & ML Enthusiast**  
-📍 Remote | Bengaluru, India  
+📍 Remote
 
 ---
 
